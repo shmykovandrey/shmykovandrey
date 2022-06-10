@@ -1,6 +1,9 @@
-Shelter: 
+Shelter:
+
 Цель задания сверстать сайт с макета Figma(пиксель перфект). Создать семантическую структуру. Использовать SASS/SCSS. Добавить адаптивность и отзывчивость. Использовать JS для слайдера, модальных окон и псевдорандомной генерации контента.
+
 Deploy: https://shmykovandrey.github.io/shelter/shelter/pages/main/
+
 Repo: https://github.com/shmykovandrey/shelter
 
 <!--
