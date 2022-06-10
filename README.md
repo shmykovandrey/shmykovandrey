@@ -3,3 +3,5 @@
 Проект Virtual Keyboard⌨️(webpack/OOP JS/eslint): [Код + описание](https://github.com/shmykovandrey/virtual-keyboard) | [Demo](https://shmykovandrey.github.io/virtual-keyboard/)
 
 Проект CSS Mem Slider 🐸(чистый HTML/CSS без JS и наворотов): [Код + описание](https://github.com/shmykovandrey/cssMemSlider) | [Demo](https://shmykovandrey.github.io/cssMemSlider/cssMemSlider/)
+
+Проект HTML Builder 📁(Node.js/async/fs/events): [Код + описание](https://github.com/shmykovandrey/HTML-builder)
