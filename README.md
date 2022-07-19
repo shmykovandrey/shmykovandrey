@@ -6,4 +6,7 @@
 
 Проект HTML Builder 📁(Node.js/async/fs/events): [Код + описание](https://github.com/shmykovandrey/HTML-builder)
 
-В процессе выполнения проект Burger Shop 🍔(React/Hooks/Firebase auth): [Код + описание](https://github.com/shmykovandrey/burger-shop/tree/dev) | [Demo](https://shmykovandrey.github.io/burger-shop/)
+Burger Shop(еще не все реализовано) 🍔(React/Hooks/Firebase auth): [Код + описание](https://github.com/shmykovandrey/burger-shop/tree/dev) | [Demo](https://shmykovandrey.github.io/burger-shop/)
+
+Angular base project(треню основы) :angular (Angular/Components): [Код + описание](https://github.com/shmykovandrey/burger-shop/tree/dev) | [Demo](https://shmykovandrey.github.io/burger-shop/)
+
