@@ -8,5 +8,5 @@
 
 Burger Shop(еще не все реализовано) 🍔(React/Hooks/Firebase auth): [Код + описание](https://github.com/shmykovandrey/burger-shop/tree/dev) | [Demo](https://shmykovandrey.github.io/burger-shop/)
 
-Angular base project(треню основы) :angular (Angular/Components): [Код + описание](https://github.com/shmykovandrey/burger-shop/tree/dev) | [Demo](https://shmykovandrey.github.io/burger-shop/)
+Angular base project(треню основы) :angular (Angular/Components): [Код + описание](https://github.com/shmykovandrey/burger-shop/tree/dev) | [Demo](https://shmykovandrey.github.io/tour-of-heroes/)
 
