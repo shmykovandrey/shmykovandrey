@@ -10,5 +10,5 @@ Burger Shop(еще не все реализовано) 🍔(React/Hooks/Firebase
 
 Проект CSS Mem Slider 🐸(чистый HTML/CSS без JS и наворотов): [Код + описание](https://github.com/shmykovandrey/cssMemSlider) | [Demo](https://shmykovandrey.github.io/cssMemSlider/cssMemSlider/)
 
-Angular base project(треню основы) :angular (Angular/Components): [Код + описание](https://github.com/shmykovandrey/tour-of-heroes/tree/dev) | [Demo](https://shmykovandrey.github.io/tour-of-heroes/)
+Youtube-Angular base project  (Angular/Components): [Код + описание](https://github.com/shmykovandrey/yourtube-angular/tree/dev) | [Demo](https://shmykovandrey.github.io/yourtube-angular/)
 
